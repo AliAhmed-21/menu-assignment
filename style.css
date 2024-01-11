@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+}
+
+h1,h2{
+    text-align: center;
+    background-color: rgb(93, 120, 216);
+    line-height: 2.5;
+    color: aliceblue;
+}
+img{
+    display: block;
+    margin: auto;
+}
+ul,p{
+    color: aliceblue;
+}
+div{
+    text-align: center;
+}
+
